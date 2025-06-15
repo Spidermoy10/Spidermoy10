@@ -49,7 +49,7 @@
 
   <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxnODQ2Y2FvZzV5ZWFoNzJoYmloMThkeTgxZDZncGQwaGlnMWJ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1bHMzoNuY2x83QK6E/giphy.gif">
   <h3>Ecos de México</h3>
-  <p>Terror, folclor y leyendas urbanas en estética PS1.<br>🛠️ Unity | 🎨 Arte lowpoly 3D | Juego para pc | 💥 Inspirado en Resident Evil, Silent Hill<br><strong></strong>Proyecto en pausa</strong></p>
+  <p>Terror, folclor y leyendas urbanas en estética PS1.<br>🛠️ Unity | 🎨 Arte lowpoly 3D | Juego para pc | 💥 Inspirado en Resident Evil, Silent Hill<br><strong><strong>Proyecto en pausa</strong></p>
   
 
 
