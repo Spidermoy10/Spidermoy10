@@ -22,14 +22,22 @@
   currentlyWorkingOn: "a boss with finishim animations"<br>
   }
 ```
-  I'm a software engineer with experience in fullstack development and a solid passion for game development. I combine my technical skills with a creative vision to build interactive experiences with their own identity, mixing robust programming, immersive storytelling and aesthetic design inspired by retro cultures and styles.
+<img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlrZTg1c3FoZ3o0MzA4ZHJjajFwd2xudWRjbHk1aGYwdW1qd2xqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0yA9zHe5m29sxW/giphy.gif">
   
-  <h2>Philosophy and Passionsy</h2>
-  <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlrZTg1c3FoZ3o0MzA4ZHJjajFwd2xudWRjbHk1aGYwdW1qd2xqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0yA9zHe5m29sxW/giphy.gif">
-  In my life, as in the video games I create, every day is a level to overcome: there are internal enemies, hidden routes and decisions that mark the player's destiny. Discipline is my invisible HUD, that silent interface that reminds me that true control is in my actions, not in the chaos of the environment. As a developer, I design worlds with logic; as a person, I try to make my inner world follow an even firmer logic. In the end, I seek not to be invincible, but unbreakable: that even if I lose a life, I never lose direction.
- 
- 
+  I'm a software engineer with experience in fullstack development and a solid passion for game development. I combine my technical skills with a creative vision to build interactive experiences with their own identity, mixing robust programming, immersive storytelling and aesthetic design inspired by retro cultures and styles.
+  <details>
+  <summary>More about me</summary>
+
+- I currently learning:
+    - UI/UX design
+    - Game mechanics
+    - Monetization strategies
+    - Market analysis to better understand how to create games that are not only fun but also sustainable.
+
  </details>
+
+***Philosophy and Passionsy***<br>
+  In my life, as in the video games I create, every day is a level to overcome: there are internal enemies, hidden routes and decisions that mark the player's destiny. Discipline is my invisible HUD, that silent interface that reminds me that true control is in my actions, not in the chaos of the environment. As a developer, I design worlds with logic; as a person, I try to make my inner world follow an even firmer logic. In the end, I seek not to be invincible, but unbreakable: that even if I lose a life, I never lose direction.
 
   <h2>🔥My videogames</h2>
   <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRhdm9qM2owODh6MXlxaDNsdGhhaHRndHlkNnF3azh0OTBlOWp1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EbUf8fzEtXjG774Ezh/giphy.gif">
@@ -48,7 +56,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW0zemE1eG1mYjBmcjJ4MjM1MXpibXk4d2tzaXNxdGdzYW5naXZxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vBUANn4dqvxSHRpr5G/giphy.gif">
+  <img align="right" height="150" src="https://img.itch.zone/aW1nLzE5NTE0MDMyLnBuZw==/original/TV9uue.png">
   <h3>El Reino Inmundo de Puritania</h3>
   <p>You will lead the defense of King Cristalya III to protect the territories of Puritania.<br>🛠️ Game Maker Studio | 🎨 Retro Art | PC Game | 💥 Inspired by Tower Defense<br><strong>Game made for the GGJ 2025.</strong></p>
   <a href="https://moyejas-dream.itch.io/el-reino-inmundo-de-puritania" target="_blank">
