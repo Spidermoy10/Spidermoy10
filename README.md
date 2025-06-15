@@ -50,7 +50,7 @@
 
   <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFnZmV5cnhsOHhpMm45c3R3c3ZtdjZrdzlwY3htZ3lseTRwOTdiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NVKU0cW5mrmnUtKV18/giphy.gif">
   <h3>Lucid Dreams</h3>
-  <p>Depression and anxiety, depicted in a game.<br>🛠️ Game Maker Studio | 🎨 Retro Art | PC Game | Inspired by Mario Bros<br><strong>Demo terminada</strong></p>
+  <p>Depression and anxiety, depicted in a game.<br>🛠️ Game Maker Studio | 🎨 Retro Art | PC Game | Inspired by Mario Bros<br><strong>Finished demo</strong></p>
   <a href="https://moyejas-dream.itch.io/lucid-dreams" target="_blank">
   <img src=https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white/></a>
 
