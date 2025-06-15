@@ -29,7 +29,7 @@
   <a href="https://www.instagram.com/moyejasdream/" target="_blank">
   <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white/></a>  
 
---------------------------------------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFnZmV5cnhsOHhpMm45c3R3c3ZtdjZrdzlwY3htZ3lseTRwOTdiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NVKU0cW5mrmnUtKV18/giphy.gif">
   <h3>Lucid Dreams</h3>
@@ -37,7 +37,7 @@
   <a href="https://moyejas-dream.itch.io/lucid-dreams" target="_blank">
   <img src=https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white/></a>
 
---------------------------------------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW0zemE1eG1mYjBmcjJ4MjM1MXpibXk4d2tzaXNxdGdzYW5naXZxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vBUANn4dqvxSHRpr5G/giphy.gif">
   <h3>El Reino Inmundo de Puritania</h3>
@@ -45,7 +45,7 @@
   <a href="https://moyejas-dream.itch.io/el-reino-inmundo-de-puritania" target="_blank">
   <img src=https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white/></a>
 
---------------------------------------  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
   <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxnODQ2Y2FvZzV5ZWFoNzJoYmloMThkeTgxZDZncGQwaGlnMWJ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1bHMzoNuY2x83QK6E/giphy.gif">
   <h3>Ecos de México</h3>
@@ -66,3 +66,19 @@
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </div>
   </section>
+
+  <div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="www.linkedin.com/in/moisés-u-tejeda-vázquez-7830502a8" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/moyses_tv/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://moisestejeda.my.canva.site/moisestejeda" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+  
+</p>
+
+
