@@ -5,27 +5,36 @@
 </p>
 
 <p align="center">
-  <b>Apasionado por los videojuegos, la cultura retro y el desarrollo indie.</b><br>
-  <b>Unity ⚙️ | Pixel art 🎨 | México 🇲🇽 | Modo historia ON 🚀</b>
+  <b>Passionate about video games, retro culture and indie development.</b><br>
+  <b>Unity ⚙️ | Game Design 🎨 | Mexico 🇲🇽 | Story Mode ON 🚀</b>
 </p>
 
-<h2>Sobre mí <img align="center" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE3Y2g2ajdpc25mN3M4bW53a2NvajU4bnQ0ZGx3bzB2ZXBmeXh0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ut9IfYd8U1C0CNQi76/giphy.gif" width="25"/> </h2>
+<h2>About me <img align="center" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE3Y2g2ajdpc25mN3M4bW53a2NvajU4bnQ0ZGx3bzB2ZXBmeXh0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ut9IfYd8U1C0CNQi76/giphy.gif" width="25"/> </h2>
 
 ```javascript 
  const moises = {<br>
   name: "Moisés Tejeda",<br>
-  alias: "SpiderMoy",<br>
+  aka: "SpiderMoy",<br>
   skills: ["Unity", "C#", "Game Design", "Git", "HTML/CSS/JS"],<br>
   projects: ["Arenas del Mal", "Ecos de México", "Proyects Software"],<br>
-  loves: ["videojuegos", "leyendas mexicanas", "estética PS1", "cafecito con código"],<br>
-  currentlyWorkingOn: "un boss con animaciones de finishim 💥"<br>
+  loves: ["Videogames“, ”Mexican legends“, ”PS1 aesthetics“, ”Coffee with code"],<br>
+  what i do: ["I read about video game development", "focused", "anything that feeds the brain in a healthy way" ],<br>
+  currentlyWorkingOn: "a boss with finishim animations"<br>
   }
 ```
+  I'm a software engineer with experience in fullstack development and a solid passion for game development. I combine my technical skills with a creative vision to build interactive experiences with their own identity, mixing robust programming, immersive storytelling and aesthetic design inspired by retro cultures and styles.
+  
+  <h2>Philosophy and Passionsy</h2>
+  <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlrZTg1c3FoZ3o0MzA4ZHJjajFwd2xudWRjbHk1aGYwdW1qd2xqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0yA9zHe5m29sxW/giphy.gif">
+  In my life, as in the video games I create, every day is a level to overcome: there are internal enemies, hidden routes and decisions that mark the player's destiny. Discipline is my invisible HUD, that silent interface that reminds me that true control is in my actions, not in the chaos of the environment. As a developer, I design worlds with logic; as a person, I try to make my inner world follow an even firmer logic. In the end, I seek not to be invincible, but unbreakable: that even if I lose a life, I never lose direction.
  
-  <h2>🔥Mis juegos</h2>
+ 
+ </details>
+
+  <h2>🔥My videogames</h2>
   <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRhdm9qM2owODh6MXlxaDNsdGhhaHRndHlkNnF3azh0OTBlOWp1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EbUf8fzEtXjG774Ezh/giphy.gif">
   <h3>Arenas del Mal</h3>
-  <p>Lucha libre, sangre y gloria. 100% mexicano.<br>🛠️ Unity | 🎨 Arte retro | Juego movil | 💥 Inspirado en The King of Fighter y WWF Wrestlefest (Arcade)<br> <strong>En desarrollo</strong> </p>
+  <p>Wrestling, blood and glory. 100% Mexican.<br>🛠️ Unity | 🎨 Retro Art | Mobile Game | 💥 Inspired by The King of Fighter and WWF Wrestlefest (Arcade)<br> <strong>In developmentWrestling, blood and glory. 100% Mexican</strong> </p>
   <a href="https://www.instagram.com/moyejasdream/" target="_blank">
   <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white/></a>  
 
@@ -33,7 +42,7 @@
 
   <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFnZmV5cnhsOHhpMm45c3R3c3ZtdjZrdzlwY3htZ3lseTRwOTdiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NVKU0cW5mrmnUtKV18/giphy.gif">
   <h3>Lucid Dreams</h3>
-  <p>Depresion y ansiedad, representado en un juego.<br>🛠️ Game Maker Studio | 🎨 Arte retro | Juego para pc | Inspirado en Mario Bros<br><strong>Demo terminada</strong></p>
+  <p>Depression and anxiety, depicted in a game.<br>🛠️ Game Maker Studio | 🎨 Retro Art | PC Game | Inspired by Mario Bros<br><strong>Demo terminada</strong></p>
   <a href="https://moyejas-dream.itch.io/lucid-dreams" target="_blank">
   <img src=https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white/></a>
 
@@ -41,7 +50,7 @@
 
   <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW0zemE1eG1mYjBmcjJ4MjM1MXpibXk4d2tzaXNxdGdzYW5naXZxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vBUANn4dqvxSHRpr5G/giphy.gif">
   <h3>El Reino Inmundo de Puritania</h3>
-  <p>Liderará la defensa de la reyna Cristalya III para proteger los territorios de Puritania.<br>🛠️ Game Maker Studio | 🎨 Arte retro | Juego para pc | 💥 Inspirado en los Tower Defense<br><strong>Juego realizado para el GGJ 2025</strong></p>
+  <p>You will lead the defense of King Cristalya III to protect the territories of Puritania.<br>🛠️ Game Maker Studio | 🎨 Retro Art | PC Game | 💥 Inspired by Tower Defense<br><strong>Game made for the GGJ 2025.</strong></p>
   <a href="https://moyejas-dream.itch.io/el-reino-inmundo-de-puritania" target="_blank">
   <img src=https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white/></a>
 
@@ -49,7 +58,7 @@
 
   <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxnODQ2Y2FvZzV5ZWFoNzJoYmloMThkeTgxZDZncGQwaGlnMWJ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1bHMzoNuY2x83QK6E/giphy.gif">
   <h3>Ecos de México</h3>
-  <p>Terror, folclor y leyendas urbanas en estética PS1.<br>🛠️ Unity | 🎨 Arte lowpoly 3D | Juego para pc | 💥 Inspirado en Resident Evil, Silent Hill<br><strong><strong>Proyecto en pausa</strong></p>
+  <p>Horror, folklore and urban legends in aesthetics PS1.<br>🛠️ Unity | 🎨 3D lowpoly art | PC Game | 💥 Inspired by Resident Evil, Silent Hill<br><strong><strong>Project on pause</strong></p>
   
 
 
@@ -64,10 +73,22 @@
       <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     </div>
   </section>
 
-  <div id="user-content-toc">
+  <p align="center"><a href="https://github.com/Spidermoy10/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spidermoy10&layout=compact&theme=chartreuse-dark" width="400"" />
+
+  <h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/Spidermoy10/count.svg" />
+  </h3>
+
+  <div id="user-content-toc"><br>
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
